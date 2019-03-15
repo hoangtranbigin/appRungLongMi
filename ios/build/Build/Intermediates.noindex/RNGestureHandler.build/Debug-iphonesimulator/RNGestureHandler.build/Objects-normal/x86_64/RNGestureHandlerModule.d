@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/macmini/Documents/ReactNative/navigation/node_modules/react-native-gesture-handler/ios/RNGestureHandlerModule.m \
+  /Users/macmini/Documents/ReactNative/navigation/node_modules/react-native-gesture-handler/ios/RNGestureHandlerModule.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerUtils.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerObserverCoordinator.h \
+  /Users/macmini/Documents/ReactNative/navigation/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h \
+  /Users/macmini/Documents/ReactNative/navigation/node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h \
+  /Users/macmini/Documents/ReactNative/navigation/node_modules/react-native-gesture-handler/ios/RNGestureHandler.h \
+  /Users/macmini/Documents/ReactNative/navigation/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
+  /Users/macmini/Documents/ReactNative/navigation/node_modules/react-native-gesture-handler/ios/RNGestureHandlerManager.h \
+  /Users/macmini/Documents/ReactNative/navigation/node_modules/react-native-gesture-handler/ios/RNGestureHandlerButton.h

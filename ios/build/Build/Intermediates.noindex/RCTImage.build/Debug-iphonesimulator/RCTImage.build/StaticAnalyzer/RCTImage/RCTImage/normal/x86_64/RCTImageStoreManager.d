@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/macmini/Documents/ReactNative/navigation/node_modules/react-native/Libraries/Image/RCTImageStoreManager.m \
+  /Users/macmini/Documents/ReactNative/navigation/node_modules/react-native/Libraries/Image/RCTImageStoreManager.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/macmini/Documents/ReactNative/navigation/node_modules/react-native/Libraries/Image/RCTImageUtils.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTResizeMode.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/macmini/Documents/ReactNative/navigation/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
